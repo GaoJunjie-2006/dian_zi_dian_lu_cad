@@ -6,7 +6,7 @@
 
 8.28 cm × 1.79 cm ｜ 长宽比 5 : 1 ｜ 44 个引脚全部引出 ｜ 可直插面包板
 
-电气24-3　高俊杰　24101080322　纯手敲，无AI
+电气24-3　高俊杰　24101080322
 
 </div>
 
@@ -138,3 +138,8 @@
 github：<https://github.com/GaoJunjie-2006/dian_zi_dian_lu_cad.git>
 
 电气24-3 高俊杰倾情奉献
+
+---
+
+> 说明：本 README 由 Claude 根据设计报告整理撰写。
+> 如有疑问或修改建议，欢迎提交 [Issue](https://github.com/GaoJunjie-2006/dian_zi_dian_lu_cad/issues)。
